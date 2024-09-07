@@ -1,4 +1,4 @@
-## GoogleFlix
+## GoogleFlix - Imersão Dev com Alura e Google Gemini
 
 ### O que é?
 O GoogleFlix é sua plataforma de busca de streaming! Pesquise por seus filmes e séries favoritos e descubra sinopses incríveis.
