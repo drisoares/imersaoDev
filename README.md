@@ -28,4 +28,7 @@ Quer ajudar a melhorar o GoogleFlix? Faça um fork do repositório, faça suas a
 
 **#GoogleFlix #DesenvolvimentoWeb #JavaScript #HTML #CSS**
 
+### Link Vercel
+https://imersao-7jjhinwf8-adrieles-projects-09ed00c3.vercel.app
+
 **Divirta-se explorando!**
